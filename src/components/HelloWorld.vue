@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'one more time',
+  name: 'one more times',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
