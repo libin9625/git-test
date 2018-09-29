@@ -6,11 +6,7 @@
 
 <script>
 export default {
-<<<<<<< HEAD
-  name: '主分支更新',
-=======
-  name: '最后一次总结测试',
->>>>>>> libin
+  name: '次分支更新',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
