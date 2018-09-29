@@ -6,7 +6,11 @@
 
 <script>
 export default {
+<<<<<<< HEAD
   name: 'one more times',
+=======
+  name: '你好再一次推进',
+>>>>>>> libin
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
